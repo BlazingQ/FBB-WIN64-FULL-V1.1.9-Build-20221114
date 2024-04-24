@@ -1,0 +1,28 @@
+[Error] 2023/03/13 14:42:40 cfb.go:544: NJU.belt_double12: FB not exist
+[Error] 2023/03/13 14:42:40 sys.go:1184: NJU lab
+[Error] 2023/03/13 16:29:29 fbxml.go:2166: signal received, broker closed. interrupt
+[Error] 2023/03/14 11:42:59 fbxml.go:2166: signal received, broker closed. interrupt
+[Error] 2023/12/19 20:58:23 fbxml.go:2166: signal received, broker closed. interrupt
+[Error] 2024/01/26 16:30:26 fbxml.go:2166: signal received, broker closed. interrupt
+[Error] 2024/03/02 17:25:55 fbxml.go:2166: signal received, broker closed. interrupt
+[Error] 2024/03/04 19:23:20 fbxml.go:2166: signal received, broker closed. interrupt
+[Error] 2024/03/13 15:05:51 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/03/20 10:46:41 sqlitedb.go:58: listen udp :61501: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[Error] 2024/03/21 09:54:27 fbxml.go:2166: signal received, broker closed. interrupt
+[Error] 2024/03/26 14:47:17 save.go:633: Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/12 10:59:23 sqlitedb.go:58: listen udp :61501: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[Error] 2024/04/12 07:13:46 sqlitedb.go:58: listen udp :61501: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[Error] 2024/04/12 07:15:28 cfb.go:544: Demo.Client_HMI: FB not exist
+[Error] 2024/04/12 07:15:28 sys.go:1184: Demo TCPClient__DEMO
+[Error] 2024/04/13 21:20:27 sqlitedb.go:58: listen udp :61501: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[Error] 2024/04/13 21:56:33 cfb.go:544: NJU.LAB_HMI_NEW: FB not exist
+[Error] 2024/04/13 21:56:33 sys.go:1184: NJU NJU_TESTARM
+[Error] 2024/04/13 21:56:33 cfb.go:544: NJU.LAB_HMI_NEW: FB not exist
+[Error] 2024/04/13 21:56:33 cfb.go:544: NJU.LAB_HMI_NEW: FB not exist
+[Error] 2024/04/13 21:56:33 sys.go:1184: NJU LINE
+[Error] 2024/04/13 21:56:33 cfb.go:544: NJU.LAB_HMI_NEW: FB not exist
+[Error] 2024/04/13 21:56:33 cfb.go:544: NJU.LAB_HMI_NEW: FB not exist
+[Error] 2024/04/13 21:56:33 sys.go:1184: NJU NJU_TESTBELT
+[Error] 2024/04/13 21:56:33 cfb.go:544: NJU.LAB_HMI_NEW: FB not exist
+[Error] 2024/04/13 21:56:33 sys.go:1184: NJU EXP
+[Error] 2024/04/16 14:23:00 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.

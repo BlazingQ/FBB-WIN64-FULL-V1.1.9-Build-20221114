@@ -1,0 +1,379 @@
+[Error] 2023/03/13 14:44:15 FBCMain.go:975: compile system error: Compile Error in [arm1]  'Mirobot' was not declared in this scope
+[Error] 2023/03/13 14:45:54 FBCMain.go:975: compile system error: Compile Error in [arm1]  'Mirobot' was not declared in this scope
+[Error] 2023/03/13 15:04:01 FBCMain.go:975: compile system error: Compile Error in [arm1]  'Mirobot' was not declared in this scope
+[Error] 2023/03/13 15:04:34 FBCMain.go:975: compile system error: Compile Error in [arm1]  'Mirobot' was not declared in this scope
+[Error] 2023/03/13 15:05:34 FBCMain.go:975: compile system error: Compile Error in [arm1]  'Mirobot' was not declared in this scope
+[Error] 2023/03/13 15:10:10 FBCMain.go:975: compile system error: Compile Error in [arm1]  'Mirobot' was not declared in this scope
+[Error] 2023/03/13 15:28:59 FBCMain.go:419: deploy system error: Post "http://192.168.1.106:8081/debug": dial tcp 192.168.1.106:8081: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[Error] 2023/03/13 15:32:40 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 15:40:58 FBCMain.go:256: stop system error: Cannot KILL System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 15:44:30 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 15:45:25 FBCMain.go:256: stop system error: Cannot KILL System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 15:48:10 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:05:01 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:05:12 FBCMain.go:256: stop system error: Cannot KILL System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:07:36 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.100:8081
+Cannot START System Configuration lab for Runtime http://192.168.1.100:8081
+
+[Error] 2023/03/13 16:08:41 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:09:07 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:09:13 FBCMain.go:256: stop system error: Cannot KILL System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:12:33 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:16:14 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:17:19 FBCMain.go:256: stop system error: Cannot KILL System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:18:31 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:23:44 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:34:16 FBCMain.go:174: start system error: Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+Cannot START System Configuration lab for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/13 16:38:13 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/13 16:38:43 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/13 16:39:13 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/13 16:40:53 FBCMain.go:419: deploy system error: Post "http://192.168.1.101:8083/debug": dial tcp 192.168.1.101:8083: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2023/03/13 16:45:41 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/13 16:46:11 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/13 16:46:41 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/13 16:47:11 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/13 16:47:41 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/13 16:51:16 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/14 10:48:09 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/14 10:48:40 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/03/14 12:05:42 FBCMain.go:256: stop system error: Cannot KILL System Configuration NJU_TESTBELT for Runtime http://192.168.1.101:8081
+Cannot KILL System Configuration NJU_TESTBELT for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/14 12:16:58 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2023/03/14 15:32:27 FBCMain.go:975: compile system error: Compile Error in [belt_double12]  'wiringPiSetup' was not declared in this scope
+[Error] 2023/03/14 15:40:23 FBCMain.go:174: start system error:  System Configuration LINE is already in START Mode!
+ System Configuration LINE is already in START Mode!
+ System Configuration LINE is already in START Mode!
+
+[Error] 2023/03/14 15:48:20 FBCMain.go:256: stop system error: Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+
+[Error] 2023/03/14 16:12:05 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTBELT for Runtime http://192.168.1.101:8081
+Cannot START System Configuration NJU_TESTBELT for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/14 16:23:25 FBCMain.go:174: start system error: Cannot START System Configuration LINE for Runtime http://192.168.1.101:8081
+ System Configuration LINE is already in START Mode!
+ System Configuration LINE is already in START Mode!
+
+[Error] 2023/03/14 16:23:40 FBCMain.go:256: stop system error: Cannot KILL System Configuration NJU_TESTBELT for Runtime http://192.168.1.101:8081
+Cannot KILL System Configuration NJU_TESTBELT for Runtime http://192.168.1.101:8081
+
+[Error] 2023/03/14 16:29:56 FBCMain.go:975: compile system error: Compile Error in [belt_double12]  'wiringPiSetup' was not declared in this scope
+[Error] 2023/03/14 17:15:07 FBCMain.go:975: compile system error: Compile Error in [belt_double45]  'wiringPiSetup' was not declared in this scope
+[Error] 2023/04/20 16:09:17 FBCMain.go:174: start system error:  System Configuration LINE is already in START Mode!
+ System Configuration LINE is already in START Mode!
+ System Configuration LINE is already in START Mode!
+
+[Error] 2023/11/24 17:31:27 FBCMain.go:256: stop system error: Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+Post "http://192.168.1.102:8081/mgt": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+
+[Error] 2023/11/24 18:10:10 FBCMain.go:174: start system error: Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+
+[Error] 2023/11/24 18:10:19 FBCMain.go:256: stop system error: Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+
+[Error] 2023/11/24 18:10:32 FBCMain.go:256: stop system error: Cannot KILL System Configuration LINE for Runtime http://192.168.1.101:8081
+Cannot KILL System Configuration LINE for Runtime http://192.168.1.101:8081
+
+[Error] 2023/11/24 18:10:33 FBCMain.go:174: start system error: Cannot START System Configuration LINE for Runtime http://192.168.1.101:8081
+Cannot START System Configuration LINE for Runtime http://192.168.1.101:8081
+
+[Error] 2023/11/24 18:10:37 FBCMain.go:174: start system error:  System Configuration LINE is already in START Mode!
+ System Configuration LINE is already in START Mode!
+Cannot START System Configuration LINE for Runtime http://192.168.1.101:8081
+
+[Error] 2023/11/26 17:09:20 FBCMain.go:975: compile system error: Compile Error in [arm5]  'Mirobot' was not declared in this scope
+[Error] 2023/11/26 17:09:34 FBCMain.go:975: compile system error: Compile Error in [arm2]  'Mirobot' was not declared in this scope
+[Error] 2023/11/26 17:48:53 FBCMain.go:174: start system error:  System Configuration LINE is already in START Mode!
+ System Configuration LINE is already in START Mode!
+ System Configuration LINE is already in START Mode!
+
+[Error] 2023/11/27 11:33:11 FBCMain.go:256: stop system error: Cannot KILL System Configuration LINE for Runtime http://192.168.1.102:8081
+Cannot KILL System Configuration LINE for Runtime http://192.168.1.102:8081
+Cannot KILL System Configuration LINE for Runtime http://192.168.1.102:8081
+
+[Error] 2023/11/27 11:33:19 FBCMain.go:419: deploy system error: Post "http://192.168.1.103:8081/debug": dial tcp 192.168.1.103:8081: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[Error] 2023/11/27 12:06:09 FBCMain.go:975: compile system error: Compile Error in [arm5]  'api' was not declared in this scope
+[Error] 2023/11/27 12:06:39 FBCMain.go:975: compile system error: Compile Error in [arm5]  'api' was not declared in this scope
+[Error] 2023/11/27 12:07:43 FBCMain.go:975: compile system error: Compile Error in [arm5]  expected ';' before 'm1'
+[Error] 2023/11/27 19:42:33 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2023/12/19 19:38:15 FBCMain.go:975: compile system error: Compile Error in [arm3]  'Mirobot' was not declared in this scope
+[Error] 2023/12/19 19:40:01 FBCMain.go:174: start system error: Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+
+[Error] 2023/12/19 19:45:12 FBCMain.go:256: stop system error: Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+Post "http://192.168.1.101:8081/mgt": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+
+[Error] 2024/01/11 21:11:10 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2024/01/11 21:11:22 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2024/01/11 21:12:50 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2024/03/02 15:41:14 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2024/03/02 15:41:44 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2024/03/02 15:42:14 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2024/03/02 15:43:10 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2024/03/02 15:43:40 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2024/03/04 16:20:18 FBCMain.go:975: compile system error: Compile Error in [ECYCLE]  'fbptr' was not declared in this scope
+[Error] 2024/03/04 16:28:45 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/04 16:30:24 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/04 16:35:43 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/04 16:37:03 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/04 16:47:57 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/04 16:53:23 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8085/debug": dial tcp 127.0.0.1:8085: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/04 17:02:09 FBCMain.go:174: start system error: Cannot START System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+Cannot START System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+
+[Error] 2024/03/04 17:02:27 FBCMain.go:215: stop system error: Cannot STOP System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+Cannot STOP System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+
+[Error] 2024/03/04 17:02:31 FBCMain.go:256: stop system error: Cannot KILL System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+Cannot KILL System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+
+[Error] 2024/03/04 17:08:47 FBCMain.go:174: start system error: Cannot START System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+Cannot START System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+
+[Error] 2024/03/04 17:11:14 FBCMain.go:174: start system error: Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:54905->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+EOF
+Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:54903->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+EOF
+
+[Error] 2024/03/04 17:11:14 FBCMain.go:256: stop system error: Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:54928->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+EOF
+Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:54929->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+EOF
+
+[Error] 2024/03/04 17:11:14 FBCMain.go:174: start system error: Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:54890->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+EOF
+Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:54888->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+EOF
+
+[Error] 2024/03/04 17:12:12 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/04 17:14:51 FBCMain.go:174: start system error: Cannot START System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+Cannot START System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+
+[Error] 2024/03/04 17:21:45 FBCMain.go:174: start system error: Cannot START System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+Cannot START System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+
+[Error] 2024/03/04 19:18:14 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/04 19:32:10 FBCMain.go:419: deploy system error: ERROR: Cannot DELETE Resource DemoFBSRT.RES for Runtime http://127.0.0.1:8081
+[Error] 2024/03/04 19:32:59 FBCMain.go:256: stop system error: Cannot KILL System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+Cannot KILL System Configuration Trafficsys for Runtime http://127.0.0.1:8081
+
+[Error] 2024/03/05 11:02:13 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": read tcp 127.0.0.1:57216->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+[Error] 2024/03/05 11:02:13 FBCMain.go:256: stop system error: Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:57435->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+EOF
+Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:57434->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+EOF
+
+[Error] 2024/03/05 11:15:31 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": read tcp 127.0.0.1:58190->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+[Error] 2024/03/05 11:22:19 FBCMain.go:174: start system error: Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:58318->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+EOF
+Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:58319->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+Post "http://127.0.0.1:8081/mgt": read tcp 127.0.0.1:58320->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+
+[Error] 2024/03/05 11:22:19 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": read tcp 127.0.0.1:58698->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+[Error] 2024/03/05 11:22:19 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": read tcp 127.0.0.1:58351->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+[Error] 2024/03/05 11:27:34 FBCMain.go:338: reset system configuration error: Post "http://127.0.0.1:8081/debug": read tcp 127.0.0.1:59089->127.0.0.1:8081: wsarecv: An existing connection was forcibly closed by the remote host.
+[Error] 2024/03/05 11:29:14 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/08 10:32:03 FBCMain.go:975: compile system error: Compile Error in [TrafficBasic]  'cnt' was not declared in this scope; did you mean 'int'?
+[Error] 2024/03/08 10:33:10 FBCMain.go:975: compile system error: Compile Error in [TrafficBasic]  '这一下意味着我必然绿或者黄，那就是由ECC决定的' was not declared in this scope
+[Error] 2024/03/08 10:58:22 FBCMain.go:174: start system error: Post "http://127.0.0.1:8081/mgt": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+Post "http://127.0.0.1:8081/mgt": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+
+[Error] 2024/03/10 09:23:22 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:18081/debug": dial tcp 127.0.0.1:18081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/10 09:24:56 FBCMain.go:419: deploy system error: ERROR: Cannot DELETE Resource PLC1.RES1 for Runtime http://127.0.0.1:8081
+[Error] 2024/03/10 09:25:29 FBCMain.go:174: start system error: Cannot START System Configuration TrafficSys_D for Runtime http://127.0.0.1:18081
+Cannot START System Configuration TrafficSys_D for Runtime http://127.0.0.1:18081
+
+[Error] 2024/03/10 09:26:47 FBCMain.go:419: deploy system error: ERROR: INVALID_OPERATION for Runtime http://127.0.0.1:18081
+[Error] 2024/03/10 09:31:14 FBCMain.go:419: deploy system error: ERROR: Cannot DELETE Resource PLC2.RES1 for Runtime http://127.0.0.1:18081
+[Error] 2024/03/10 09:48:36 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/16 14:57:34 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/16 15:07:21 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/mgt": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/16 16:05:47 FBCMain.go:975: compile system error: Compile Error in [arm5]  'Mirobot' was not declared in this scope
+[Error] 2024/03/18 16:30:52 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/18 16:31:05 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/18 16:31:19 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/20 11:01:11 FBCMain.go:975: compile system error: Compile Error in [arm5]  expected ')' before '!' token
+[Error] 2024/03/20 11:04:01 FBCMain.go:975: compile system error: Compile Error in [arm5]  expected ')' before '!' token
+[Error] 2024/03/20 15:06:20 FBCMain.go:419: deploy system error: Post "http://192.168.1.101:8081/debug": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/20 15:55:10 FBCMain.go:419: deploy system error: Post "http://192.168.1.101:8081/debug": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/21 09:51:31 FBCMain.go:419: deploy system error: Post "http://192.168.1.101:8081/debug": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/21 15:57:08 FBCMain.go:975: compile system error: Compile Error in [arm5]  'Char' was not declared in this scope
+[Error] 2024/03/21 15:57:37 FBCMain.go:975: compile system error: Compile Error in [arm5]  expected ',' or ';' before 'Mirobot'
+[Error] 2024/03/21 15:58:17 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/21 16:25:40 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/21 17:03:03 FBCMain.go:975: compile system error: Compile Error in [arm5]  invalid conversion from 'Mirobot*' to 'long long unsigned int' [-fpermissive]
+[Error] 2024/03/21 17:08:02 FBCMain.go:975: compile system error: Compile Error in [arm5]  invalid conversion from 'Mirobot*' to 'long long unsigned int' [-fpermissive]
+[Error] 2024/03/22 10:05:44 FBCMain.go:975: compile system error: Compile Error in [arm5]  invalid cast from type 'Mirobot' to type 'long long unsigned int'
+[Error] 2024/03/22 10:09:39 FBCMain.go:975: compile system error: Compile Error in [arm5]  'm1' was not declared in this scope
+[Error] 2024/03/22 10:11:57 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.100:8081
+Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.100:8081
+
+[Error] 2024/03/22 10:50:54 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line1
+[Error] 2024/03/22 10:51:38 FBCMain.go:975: compile system error: Compile Error in [arm5]  invalid operands of types 'long long unsigned int' and 'std::nullptr_t' to binary 'operator=='
+[Error] 2024/03/23 15:13:46 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/23 15:22:58 FBCMain.go:419: deploy system error: ERROR: Cannot DELETE Resource pi_arm2.pi2_EMB for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:22:58 FBCMain.go:419: deploy system error: ERROR: Cannot DELETE Resource pi_arm2.pi2_EMB for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:22:58 FBCMain.go:419: deploy system error: ERROR: Cannot DELETE Resource pi_arm2.pi2_EMB for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:22:58 FBCMain.go:419: deploy system error: ERROR: Cannot DELETE Resource pi_arm2.pi2_EMB for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:22:58 FBCMain.go:419: deploy system error: ERROR: Cannot CLEAN Resource pi_arm2.pi2_DATA for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:22:59 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:22:59 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:22:59 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:22:59 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:22:59 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:00 FBCMain.go:419: deploy system error: ERROR: Cannot DELETE Resource pi_arm2.pi2_EMB for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:00 FBCMain.go:419: deploy system error: ERROR: Cannot CLEAN Resource pi_arm2.pi2_HMI for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:00 FBCMain.go:419: deploy system error: ERROR: Cannot CLEAN Resource pi_arm2.pi2_HMI for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:00 FBCMain.go:419: deploy system error: ERROR: Cannot DELETE Resource pi_arm2.pi2_HMI for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:00 FBCMain.go:419: deploy system error: ERROR: Cannot CLEAN Resource pi_arm2.pi2_HMI for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:00 FBCMain.go:419: deploy system error: ERROR: Cannot KILL Resource pi_arm2.pi2_HMI for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:01 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:01 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:01 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:01 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:01 FBCMain.go:419: deploy system error: ERROR: UNSUPPORTED_TYPE for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:02 FBCMain.go:419: deploy system error: ERROR: Cannot CLEAN Resource pi_arm2.pi2_EMB for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:23:02 FBCMain.go:419: deploy system error: ERROR: Cannot CLEAN Resource pi_arm2.pi2_EMB for Runtime http://192.168.1.100:8081
+[Error] 2024/03/23 15:28:06 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/23 16:51:59 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/23 16:54:30 FBCMain.go:975: compile system error: Compile Error in [arm5]  'ptr' was not declared in this scope
+[Error] 2024/03/23 17:08:14 FBCMain.go:975: compile system error: EOF
+[Error] 2024/03/23 17:08:32 FBCMain.go:975: compile system error: EOF
+[Error] 2024/03/23 17:09:14 FBCMain.go:975: compile system error: EOF
+[Error] 2024/03/23 17:10:14 FBCMain.go:975: compile system error: EOF
+[Error] 2024/03/23 20:07:58 FBCMain.go:419: deploy system error: No destination is assigned for 
+[Error] 2024/03/23 20:43:21 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/23 20:52:18 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/25 16:50:11 FBCMain.go:975: compile system error: Compile Error in [Controller]  'std::__cxx11::string {aka class std::__cxx11::basic_string<char>}' has no member named 'name'
+[Error] 2024/03/25 16:51:58 FBCMain.go:419: deploy system error: Post "http://192.168.1.100:8081/debug": dial tcp 192.168.1.100:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/25 16:56:01 FBCMain.go:419: deploy system error: Post "http://192.168.1.101:8081/debug": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/26 15:17:15 FBCMain.go:419: deploy system error: Post "http://192.168.1.101:8081/debug": dial tcp 192.168.1.101:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/03/28 10:33:12 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line8
+[Error] 2024/03/28 10:35:42 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 10:44:33 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 10:45:43 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 10:47:21 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 10:55:24 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line8
+[Error] 2024/03/28 10:56:31 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 10:56:54 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 11:01:36 FBCMain.go:975: compile system error: open ExtLib\RASPBERRY_PI4\nlohmann/json.hpp: The system cannot find the path specified.
+[Error] 2024/03/28 11:02:19 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 11:05:01 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 11:06:20 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 11:09:32 FBCMain.go:975: compile system error: open ExtLib\RASPBERRY_PI4\json.hpp: The system cannot find the file specified.
+[Error] 2024/03/28 11:09:57 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line16
+[Error] 2024/03/28 11:10:45 FBCMain.go:975: compile system error: Compile Error in [Controller]  'json' was not declared in this scope
+[Error] 2024/03/28 11:12:25 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line8
+[Error] 2024/03/28 11:13:26 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cmd1' was not declared in this scope
+[Error] 2024/03/28 11:15:46 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cmd1' was not declared in this scope
+[Error] 2024/03/28 11:17:51 FBCMain.go:975: compile system error: Compile Error in [arm5]  detect.h: No such file or directory
+[Error] 2024/03/28 11:17:53 FBCMain.go:975: compile system error: Compile Error in [Controller]  'nlohmann' does not name a type; did you mean 'howmany'?
+[Error] 2024/03/28 11:25:44 FBCMain.go:975: compile system error: Compile Error in [Controller]  'json' was not declared in this scope
+[Error] 2024/03/28 11:27:36 FBCMain.go:975: compile system error: Compile Error in [Controller]  nlohmann/json.hpp: No such file or directory
+[Error] 2024/03/28 11:31:14 FBCMain.go:975: compile system error: Compile Error in [Controller]  json.hpp: No such file or directory
+[Error] 2024/03/28 11:31:50 FBCMain.go:975: compile system error: Compile Error in [Controller]  json.hpp: No such file or directory
+[Error] 2024/03/28 11:32:00 FBCMain.go:975: compile system error: Compile Error in [Controller]  'namespace' definition is not allowed here
+[Error] 2024/03/28 15:11:13 FBCMain.go:975: compile system error: Compile Error in [Controller]  'nlohmann' does not name a type; did you mean 'howmany'?
+[Error] 2024/03/28 15:12:13 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cmd1' was not declared in this scope
+[Error] 2024/03/28 16:03:00 FBCMain.go:975: compile system error: Compile Error in [Controller]  CreateProcess: No such file or directory
+[Error] 2024/03/28 16:13:35 FBCMain.go:975: compile system error: Compile Error in [Controller]  nlohmann/json.hpp: No such file or directory
+[Error] 2024/03/28 16:14:19 FBCMain.go:975: compile system error: Compile Error in [arm5]  'mirobot' was not declared in this scope
+[Error] 2024/03/28 16:14:49 FBCMain.go:975: compile system error: Compile Error in [Controller]  nlohmann/json.hpp: No such file or directory
+[Error] 2024/03/28 16:18:47 FBCMain.go:975: compile system error: Compile Error in [Controller]  nlohmann/json.hpp: No such file or directory
+[Error] 2024/03/28 16:23:07 FBCMain.go:975: compile system error: Compile Error in [Controller]  nlohmann/json.hpp: No such file or directory
+[Error] 2024/03/28 16:24:20 FBCMain.go:975: compile system error: Compile Error in [Controller]  nlohmann/json.hpp: No such file or directory
+[Error] 2024/03/28 16:24:56 FBCMain.go:975: compile system error: Compile Error in [Controller]  nlohmann/json.hpp: No such file or directory
+[Error] 2024/03/28 16:25:34 FBCMain.go:975: compile system error: Compile Error in [Controller]  json.hpp: No such file or directory
+[Error] 2024/03/28 16:26:10 FBCMain.go:975: compile system error: Compile Error in [Controller]  'namespace' definition is not allowed here
+[Error] 2024/03/28 16:28:20 FBCMain.go:975: compile system error: Compile Error in [Controller]  json.hpp: No such file or directory
+[Error] 2024/03/28 16:28:42 FBCMain.go:975: compile system error: Compile Error in [Controller]  'nlohmann' has not been declared
+[Error] 2024/03/28 16:38:47 FBCMain.go:975: compile system error: open temp\nlohmann/json.hpp: The system cannot find the path specified.
+[Error] 2024/03/29 15:59:44 FBCMain.go:975: compile system error: open temp\nlohmann/json.hpp: The system cannot find the path specified.
+[Error] 2024/03/29 16:00:43 FBCMain.go:975: compile system error: open ExtLib\RASPBERRY_PI4\nlohman\json.hpp: The system cannot find the path specified.
+[Error] 2024/04/06 16:28:48 FBCMain.go:975: compile system error: Compile Error in [arm5]  ld returned 1 exit status
+[Error] 2024/04/06 17:13:55 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line2
+[Error] 2024/04/06 17:16:06 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line2
+[Error] 2024/04/06 17:19:11 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line2
+[Error] 2024/04/06 17:21:14 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line7
+[Error] 2024/04/06 17:24:12 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/07 14:34:21 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/07 15:27:27 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/08 17:19:28 FBCMain.go:975: compile system error: Compile Error in [Controller]  cannot convert 'std::__cxx11::string {aka std::__cxx11::basic_string<char>}' to 'char*' for argument '1' to 'char* strtok(char*, const char*)'
+[Error] 2024/04/08 17:23:42 FBCMain.go:975: compile system error: Compile Error in [Controller]  invalid conversion from 'const char*' to 'char*' [-fpermissive]
+[Error] 2024/04/13 21:52:13 FBCMain.go:975: compile system error: Compile Error in [aPLUSb]  CreateProcess: No such file or directory
+[Error] 2024/04/13 21:53:02 FBCMain.go:975: compile system error: Compile Error in [aPLUSb]  CreateProcess: No such file or directory
+[Error] 2024/04/13 22:01:25 FBCMain.go:975: compile system error: Compile Error in [aPLUSb]  CreateProcess: No such file or directory
+[Error] 2024/04/14 11:20:15 FBCMain.go:975: compile system error: Compile Error in [arm5]  cJSON.h: No such file or directory
+[Error] 2024/04/14 11:21:56 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/14 11:27:54 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/14 11:29:29 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/14 11:30:28 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/14 11:31:19 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/14 11:32:36 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/14 11:33:50 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cJSON' was not declared in this scope
+[Error] 2024/04/15 16:33:53 FBCMain.go:419: deploy system error: Post "http://192.168.1.101:8081/debug": dial tcp 192.168.1.101:8081: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[Error] 2024/04/15 16:37:27 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+
+[Error] 2024/04/16 21:06:52 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/16 21:49:32 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/19 11:18:50 FBCMain.go:975: compile system error: Compile Error in [arm5]  pthread: No such file or directory
+[Error] 2024/04/19 11:20:53 FBCMain.go:975: compile system error: Compile Error in [arm5]  'Mirobot' was not declared in this scope
+[Error] 2024/04/19 11:25:37 FBCMain.go:975: compile system error: Compile Error in [arm5]  'thread' was not declared in this scope
+[Error] 2024/04/19 11:28:07 FBCMain.go:975: compile system error: Compile Error in [arm5]  'sendmsgThread' was not declared in this scope
+[Error] 2024/04/19 11:30:34 FBCMain.go:975: compile system error: Compile Error in [arm5]  no matching function for call to 'std::thread::_Invoker<std::tuple<void (*)(Mirobot*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, int&), Mirobot*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::reference_wrapper<short int> > >::_M_invoke(std::thread::_Invoker<std::tuple<void (*)(Mirobot*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, int&), Mirobot*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::reference_wrapper<short int> > >::_Indices)'
+[Error] 2024/04/20 22:12:44 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/21 10:29:06 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/21 11:14:26 FBCMain.go:174: start system error:  System Configuration NJU_TESTARM is already in START Mode!
+ System Configuration NJU_TESTARM is already in START Mode!
+
+[Error] 2024/04/21 15:37:12 FBCMain.go:174: start system error:  System Configuration NJU_TESTARM is already in START Mode!
+ System Configuration NJU_TESTARM is already in START Mode!
+
+[Error] 2024/04/23 11:13:43 FBCMain.go:975: compile system error: Compile Error in [Controller]  invalid conversion from 'const char*' to 'char*' [-fpermissive]
+[Error] 2024/04/23 11:17:54 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[Error] 2024/04/23 11:17:58 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/23 11:18:54 FBCMain.go:419: deploy system error: Post "http://127.0.0.1:8081/debug": dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/23 13:47:39 FBCMain.go:419: deploy system error: Post "http://192.168.1.101:8081/debug": dial tcp 192.168.1.101:8081: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[Error] 2024/04/23 14:00:20 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/23 14:51:34 FBCMain.go:975: compile system error: EOF
+[Error] 2024/04/23 14:57:55 FBCMain.go:419: deploy system error: ERROR: INVALID_OBJECT for Runtime http://192.168.1.102:8081
+[Error] 2024/04/23 15:51:56 FBCMain.go:975: compile system error: ERROR: ":" wrong position at line48
+[Error] 2024/04/23 16:05:16 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/23 16:53:22 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cmd1' was not declared in this scope
+[Error] 2024/04/23 16:53:33 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cmd1' was not declared in this scope
