@@ -377,3 +377,4 @@ Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8
 [Error] 2024/04/23 16:05:16 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
 [Error] 2024/04/23 16:53:22 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cmd1' was not declared in this scope
 [Error] 2024/04/23 16:53:33 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cmd1' was not declared in this scope
+[Error] 2024/04/24 22:43:06 FBCMain.go:975: compile system error: Compile Error in [arm5]  stray '\357' in program
