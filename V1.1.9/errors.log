@@ -378,3 +378,4 @@ Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8
 [Error] 2024/04/23 16:53:22 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cmd1' was not declared in this scope
 [Error] 2024/04/23 16:53:33 FBCMain.go:975: compile system error: Compile Error in [Controller]  'cmd1' was not declared in this scope
 [Error] 2024/04/24 22:43:06 FBCMain.go:975: compile system error: Compile Error in [arm5]  stray '\357' in program
+[Error] 2024/04/25 21:48:03 FBCMain.go:975: compile system error: Compile Error in [Controller]  'create_connection' was not declared in this scope
