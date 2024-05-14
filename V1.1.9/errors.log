@@ -381,3 +381,22 @@ Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8
 [Error] 2024/04/25 21:48:03 FBCMain.go:975: compile system error: Compile Error in [Controller]  'create_connection' was not declared in this scope
 [Error] 2024/04/27 10:43:26 FBCMain.go:419: deploy system error: ERROR: INVALID_OBJECT for Runtime http://192.168.1.102:8081
 [Error] 2024/04/27 11:26:03 FBCMain.go:975: compile system error: Compile Error in [arm5]  'Mirobot' was not declared in this scope
+[Error] 2024/04/28 10:12:40 FBCMain.go:975: compile system error: Compile Error in [Controller]  'stops' was not declared in this scope
+[Error] 2024/04/28 17:06:50 FBCMain.go:975: compile system error: remove compile_arm5.bat: The system cannot find the file specified.
+[Error] 2024/04/28 17:06:57 FBCMain.go:975: compile system error: Compile Error in [arm4]  ld returned 1 exit status
+[Error] 2024/04/29 20:17:01 FBCMain.go:975: compile system error: Compile Error in [arm4]  cannot convert 'std::array<float, 6>' to 'float*' for argument '2' to 'void updateLocs(std::__cxx11::string, float*)'
+[Error] 2024/04/29 20:21:51 FBCMain.go:174: start system error:  System Configuration NJU_TESTARM is already in START Mode!
+ System Configuration NJU_TESTARM is already in START Mode!
+
+[Error] 2024/04/29 20:21:53 FBCMain.go:174: start system error:  System Configuration NJU_TESTARM is already in START Mode!
+ System Configuration NJU_TESTARM is already in START Mode!
+
+[Error] 2024/04/29 20:24:39 FBCMain.go:174: start system error:  System Configuration NJU_TESTARM is already in START Mode!
+ System Configuration NJU_TESTARM is already in START Mode!
+
+[Error] 2024/04/29 22:33:16 FBCMain.go:975: compile system error: open temp\arm5.cpp: The system cannot find the file specified.
+[Error] 2024/04/29 22:33:18 FBCMain.go:975: compile system error: Compile Error in [arm4]  ld returned 1 exit status
+[Error] 2024/04/30 15:35:31 FBCMain.go:298: refresh system configuration status: EOF
+[Error] 2024/04/30 16:03:22 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/04/30 16:53:23 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/05/09 16:05:49 FBCMain.go:975: compile system error: Compile Error in [ControllerTwoArm]  'stop' was not declared in this scope
