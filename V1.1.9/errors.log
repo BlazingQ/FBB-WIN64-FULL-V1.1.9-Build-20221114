@@ -400,3 +400,59 @@ Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8
 [Error] 2024/04/30 16:03:22 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
 [Error] 2024/04/30 16:53:23 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
 [Error] 2024/05/09 16:05:49 FBCMain.go:975: compile system error: Compile Error in [ControllerTwoArm]  'stop' was not declared in this scope
+[Error] 2024/05/14 15:54:58 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/05/14 16:03:18 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/05/14 16:12:50 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/05/15 16:08:20 FBCMain.go:975: compile system error: Compile Error in [ControllerReal]  expected unqualified-id before 'unsigned'
+[Error] 2024/05/15 16:18:04 FBCMain.go:975: compile system error: Compile Error in [arm4]  'timeo' was not declared in this scope
+[Error] 2024/05/15 17:08:34 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/05/16 14:19:51 FBCMain.go:975: compile system error: Compile Error in [ControllerReal]  'statusToJson' was not declared in this scope
+[Error] 2024/05/16 15:03:03 FBCMain.go:174: start system error: Post "http://192.168.1.102:8081/mgt": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+Post "http://192.168.1.102:8081/mgt": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+Post "http://192.168.1.102:8081/mgt": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+EOF
+EOF
+
+[Error] 2024/05/16 15:03:08 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+
+[Error] 2024/05/16 15:03:22 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+
+[Error] 2024/05/16 15:04:31 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+
+[Error] 2024/05/16 15:04:32 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+
+[Error] 2024/05/16 15:05:29 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+
+[Error] 2024/05/16 15:59:48 FBCMain.go:174: start system error:  System Configuration NJU_TESTARM is already in START Mode!
+ System Configuration NJU_TESTARM is already in START Mode!
+
+[Error] 2024/05/16 16:00:00 FBCMain.go:174: start system error:  System Configuration NJU_TESTARM is already in START Mode!
+ System Configuration NJU_TESTARM is already in START Mode!
+
+[Error] 2024/05/18 10:23:14 FBCMain.go:975: compile system error: Compile Error in [arm4]  'verified' was not declared in this scope
+[Error] 2024/05/18 13:03:55 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/05/18 15:59:27 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/10/14 20:26:13 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+
+[Error] 2024/10/15 09:51:35 FBCMain.go:975: compile system error: Compile Error in [network]  'sockfd' was not declared in this scope
+[Error] 2024/10/15 09:53:03 FBCMain.go:975: compile system error: Compile Error in [network]  unable to find string literal operator 'operator""statsi' with 'const char [10]', 'long unsigned int' arguments
+[Error] 2024/10/15 17:26:45 FBCMain.go:975: compile system error: Compile Error in [arm5]  cannot convert 'std::array<float, 6>' to 'float*' for argument '2' to 'void updateLocs(std::__cxx11::string, float*)'
+[Error] 2024/10/15 17:31:50 FBCMain.go:975: compile system error: remove temp\arm5.cpp: The process cannot access the file because it is being used by another process.
+[Error] 2024/10/15 17:31:50 FBCMain.go:975: compile system error: remove compile_arm5.bat: The system cannot find the file specified.
+[Error] 2024/10/19 10:33:06 FBCMain.go:975: compile system error: Compile Error in [arm5]  'statusWrapper' was not declared in this scope
+[Error] 2024/10/19 11:06:35 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/10/19 11:06:50 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/10/21 17:20:48 FBCMain.go:338: reset system configuration error: Post "http://192.168.1.102:8081/debug": EOF
+[Error] 2024/10/21 17:21:00 FBCMain.go:419: deploy system error: Post "http://192.168.1.102:8081/debug": dial tcp 192.168.1.102:8081: connectex: No connection could be made because the target machine actively refused it.
+[Error] 2024/10/21 17:23:23 FBCMain.go:174: start system error: Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+Cannot START System Configuration NJU_TESTARM for Runtime http://192.168.1.102:8081
+
+[Error] 2024/10/21 17:25:09 FBCMain.go:174: start system error:  System Configuration NJU_TESTARM is already in START Mode!
+ System Configuration NJU_TESTARM is already in START Mode!
+

@@ -23,7 +23,7 @@ typedef unsigned char uint8_t;
 #include "detect.h"
 #include "cJSON.h"
 #include "tcppi.h"
-// #include "json.hpp"
+#include "json.hpp"
 // #include "json_fwd.hpp"
 
 //IEC 61131-3 Functions

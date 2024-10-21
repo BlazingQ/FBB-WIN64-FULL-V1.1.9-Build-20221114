@@ -26,3 +26,96 @@
 [Error] 2024/04/13 21:56:33 cfb.go:544: NJU.LAB_HMI_NEW: FB not exist
 [Error] 2024/04/13 21:56:33 sys.go:1184: NJU EXP
 [Error] 2024/04/16 14:23:00 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/05/15 16:39:46 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/05/15 21:03:00 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:23:27 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:24:20 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:24:34 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:25:55 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/09 20:25:55 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/09 20:25:55 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/09 20:25:55 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/09 20:25:55 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/09 20:25:55 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/09 20:25:55 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/09 20:25:55 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/09 20:25:55 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/09 20:25:55 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/09 20:25:55 cfb.go:544: CGN.PTI_INI: FB not exist
+[Error] 2024/09/09 20:25:55 cfc.go:367: CGN.PTI_INI: FB not exist
+[Error] 2024/09/09 20:27:43 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:33:20 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:37:58 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:38:03 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:44:50 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:45:55 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:50:52 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:54:02 sqlitedb.go:58: listen udp :61498: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:54:16 sqlitedb.go:58: listen udp :61498: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 20:54:36 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 21:00:33 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 21:02:51 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/09 21:18:49 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/09 21:18:49 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/09 21:18:49 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/09 21:18:49 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/09 21:18:49 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/09 21:18:49 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/09 21:18:49 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/09 21:18:49 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/09 21:18:49 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/09 21:18:49 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/09 21:18:49 cfb.go:544: CGN.PTI_INI: FB not exist
+[Error] 2024/09/09 21:18:49 cfc.go:367: CGN.PTI_INI: FB not exist
+[Error] 2024/09/09 21:40:47 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
+[Error] 2024/09/13 09:48:08 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/13 09:48:08 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/13 09:48:08 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 09:48:08 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/13 09:48:08 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 09:48:08 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/13 09:48:08 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/13 09:48:08 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 09:48:08 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/13 09:48:08 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 09:48:08 cfb.go:544: CGN.PTI_INI: FB not exist
+[Error] 2024/09/13 09:48:08 cfc.go:367: CGN.PTI_INI: FB not exist
+[Error] 2024/09/13 10:10:34 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/13 10:10:34 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/13 10:10:34 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:10:34 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/13 10:10:34 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:10:34 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/13 10:10:34 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/13 10:10:34 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:10:34 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/13 10:10:34 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:10:34 cfb.go:544: CGN.PTI_INI: FB not exist
+[Error] 2024/09/13 10:10:34 cfc.go:367: CGN.PTI_INI: FB not exist
+[Error] 2024/09/13 10:26:09 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/13 10:26:09 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/13 10:26:09 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:26:09 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/13 10:26:09 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:26:09 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/13 10:26:09 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/13 10:26:09 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:26:09 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/13 10:26:09 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:26:10 cfb.go:544: CGN.PTI_INI: FB not exist
+[Error] 2024/09/13 10:26:10 cfc.go:367: CGN.PTI_INI: FB not exist
+[Error] 2024/09/13 10:26:15 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/13 10:26:15 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/13 10:26:15 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:26:15 sys.go:1184: Comms TestECATIO
+[Error] 2024/09/13 10:26:15 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:26:15 cfb.go:544: Flasher.FLASHER4: FB not exist
+[Error] 2024/09/13 10:26:15 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/13 10:26:15 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:26:15 sys.go:1184: Comms TestECATIO_PI4
+[Error] 2024/09/13 10:26:15 cfb.go:544: Flasher.Flasher_Panel: FB not exist
+[Error] 2024/09/13 10:26:15 cfb.go:544: CGN.PTI_INI: FB not exist
+[Error] 2024/09/13 10:26:15 cfc.go:367: CGN.PTI_INI: FB not exist
+[Error] 2024/09/13 10:27:15 cfb.go:544: CGN.PTI_INI: FB not exist
+[Error] 2024/09/13 10:27:15 cfc.go:367: CGN.PTI_INI: FB not exist
+[Error] 2024/10/11 09:17:28 sqlitedb.go:58: listen udp :61501: bind: An attempt was made to access a socket in a way forbidden by its access permissions.

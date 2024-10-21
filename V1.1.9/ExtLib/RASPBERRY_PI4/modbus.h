@@ -19,7 +19,8 @@
 #endif
 
 #include "modbus-version.h"
-#define uint16_t unsigned short int
+#include<cstdint>
+// #define uint16_t unsigned short int
 
 #if defined(_MSC_VER)
 # if defined(DLLBUILD)

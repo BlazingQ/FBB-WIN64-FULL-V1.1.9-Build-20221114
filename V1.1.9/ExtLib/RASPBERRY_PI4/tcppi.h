@@ -2,6 +2,8 @@
 #define TCPP_I_H
 
 #include "mirobot.h"
+// #include "json.hpp"
+#include "cJSON.h"
 
 #include <iostream>
 #include <sys/socket.h>
@@ -12,8 +14,12 @@
 #include <thread>
 #include <fstream>
 using namespace std;
+// using json = nlohmann::json;
 
 void updateLocs(string cmd, float locs[]);
+string timenow();
+string statusWrapper(int armid, string statuss[], int statuss_len);
+string updateStatusJson(int armid, int cmdid, string cmds, string durations, float locs[]);
 void sendmsgThread(Mirobot* ptr, string str, int* flag);
 void appendToFile(const std::string& str, const std::string& filename);
 int create_connection(const char* server_ip, int server_port);
